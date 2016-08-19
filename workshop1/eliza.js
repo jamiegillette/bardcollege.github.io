@@ -50,7 +50,7 @@ var rules = {
     "What do you think Jamies have to do with your problem?",
   ],
   "~*x name ~*y": [
-    "I am not interested in names",
+    "I am not interested in whales",
   ],
   "~*x sorry ~*y": [
     "Please don't apologize",
