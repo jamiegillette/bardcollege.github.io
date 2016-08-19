@@ -40,14 +40,14 @@ var rules = {
     "What do you think about computers?",
     "What do you think machines have to do with your problem?",
   ],
-   "~*x essay ~*y": [
-    "Do essays worry you?",
-    "What do you think about essays have to do with your problem?",
-    "Don't you think essays can help people",
-    "Why do you mention essays?",
-    "What about essays worries you?",
-    "What do you think about essays?",
-    "What do you think essays have to do with your problem?",
+   "~*x Jamie ~*y": [
+    "Do Jamies worry you?",
+    "What do you think about Jamies have to do with your problem?",
+    "Don't you think Jamies can help people",
+    "Why do you mention Jamies?",
+    "What about Jamies worries you?",
+    "What do you think about Jamies?",
+    "What do you think Jamies have to do with your problem?",
   ],
   "~*x name ~*y": [
     "I am not interested in names",
